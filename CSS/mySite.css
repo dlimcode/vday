@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.top-container {
+    background-color: lightcoral;
+    width: 30%;
+    position: relative;
+}
+
+.middle-container {
+    background-color: rgb(163, 58, 192);
+}
+
+.bottom-container {
+    background-color: rgb(182, 120, 44);
+}
